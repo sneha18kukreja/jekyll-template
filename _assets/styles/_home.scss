@@ -1,7 +1,21 @@
-h1 {
+
+
+
+
+h1.display5 {
   font-family: Roboto;
   text-align: center;
-}
+  
+
+
+  }
+  h2.display8{
+    font-family: Roboto;
+  text-align: center;
+
+  }
+  
+
 
 .block {
   background-color: $grey-lighter-color;
@@ -14,6 +28,7 @@ h1 {
   display: flex;
   justify-content: space-between;
   padding: 0 15px;
+  margin:0px;
 
   .header-text {
     align-self: center;
@@ -24,4 +39,34 @@ h1 {
 
 .middle {
   text-align: center;
+   
+  margin-top: 241px;
+    
+  }
+.first{
+  width: 100%;
+  height: 1079px;
 }
+
+.container
+{
+  display:flex;
+  flex-direction:column;
+ width: 100%;
+  height:680px;
+  background-color:red;
+  object-fit: contain;
+}
+.second{
+  display:flex;
+  flex:2;
+  width:100%;
+    height:1079px;
+    background-color: blue;
+}
+
+.container3{
+width:100%;
+height:7764px;
+}
+
