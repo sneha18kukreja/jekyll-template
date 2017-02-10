@@ -1,0 +1,84 @@
+.imgcontainer {
+    text-align: center;
+   width:50%;
+    margin-left:150px;
+    margin-top: 12px;
+}
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.container {
+    padding: 16px;
+    
+}
+span.email{
+  float: right;
+    padding-top: 16px;
+
+}
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+form {
+    border: 3px solid #f1f1f1;
+}
+.loginclass{
+  padding: 10px;
+  margin-right: 200px;
+  margin-left: 400px;
+  margin-bottom:800px;
+  width:40%;
+  height:500px;
+  }
+.button2{
+ background-color:#44c767;
+-moz-border-radius:10px;
+-webkit-border-radius:10px;
+ border-radius:28px;
+ border:1px solid #18ab29;
+ display:inline-block;
+ cursor:pointer;
+ color:#ffffff;
+ font-family:Arial;
+ font-size:10px;
+ margin-top:40px;
+ padding:16px 31px;
+ text-decoration:none;
+ margin-left:150px;
+ margin-right:150px;
+ }
+.heading{
+  margin-top: 20px;
+  margin-left:150px;
+}
+.button2_google{
+  background-color:red;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:28px;
+	border:1px solid red;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:10px;
+  margin-top:40px;
+	padding:16px 31px;
+	text-decoration:none;
+  margin-left:150px;
+  margin-right:150px;
+}
+
+.heading2{
+  margin-bottom:30px;
+  margin-left:150px;
+}
+
